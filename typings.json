@@ -1,0 +1,14 @@
+{
+  "name": "imageboard-sample",
+  "dependencies": {},
+  "globalDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160317120654",
+    "errorhandler": "registry:dt/errorhandler#0.0.0+20160316155526",
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160602151406",
+    "mongodb": "registry:dt/mongodb#2.1.0+20160602142941",
+    "multer": "registry:dt/multer#0.0.0+20160317120654",
+    "node": "registry:env/node#6.0.0+20160610031852",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157"
+  }
+}
